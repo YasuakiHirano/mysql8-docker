@@ -1,10 +1,10 @@
 ## MySQLのバージョン8のみのComposeファイル
-MySQL8.0.33のDocker Composeファイルです。
+MySQL8.0.33のDocker Composeファイルです。  
 port 3306でMySQLのDockerコンテナを用意します。
 
-ログイン情報
-user: root
-password: password
+### ログイン情報  
+user: root  
+password: password  
 
 ### 起動
 
